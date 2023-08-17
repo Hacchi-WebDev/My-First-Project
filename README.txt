@@ -1,3 +1,0 @@
-This is my first file
-This is my first Commit
-I made changes
